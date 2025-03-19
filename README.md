@@ -7,10 +7,9 @@ The library can be used to add support for this format to an application, enabli
 This package also contains two simple examples of how the library can be used.
 
 ## Benefits
-Enables Spotfire customers to integrate Spotfire directly into their data workflows and business processes, by generating and consuming data in an optimal format for Spotfire.\
-Freely redistribute this library with your 3rd-party applications, giving your users a streamlined experience when working with your applications and Spotfire, enabling them to easily take advantage of the strengths of both.\
-Pass data between your application and the Spotfire platform in a highly-efficient binary format, increasing performance and preserving data type information.
->_Even though Spotfire products can read data on a number of different formats, SBDF files can increase the performance when using the data in a Spotfire analysis._
+- Enables Spotfire customers to integrate Spotfire directly into their data workflows and business processes, by generating and consuming data in an optimal format for Spotfire.
+- Freely redistribute this library with your 3rd-party applications, giving your users a streamlined experience when working with your applications and Spotfire, enabling them to easily take advantage of the strengths of both.
+- Pass data between your application and the Spotfire platform in a highly-efficient binary format, increasing performance and preserving data type information. _(Even though Spotfire products can read data on a number of different formats, SBDF files can increase the performance when using the data in a Spotfire analysis.)_
 
 ### Contents:
 

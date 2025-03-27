@@ -40,4 +40,4 @@ Documentation on the SBDF library can be found [here](https://docs.tibco.com/pub
 
 ## License
 
-BSD-3
+BSD-type 3-Clause License. See the file LICENSE included in the repository.

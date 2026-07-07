@@ -35,7 +35,7 @@ DLL. Instead, use the DLL provided by the Spotfire SDK._
 
 ### Documentation:
 
-Documentation on the SBDF library can be found [here](https://docs.tibco.com/pub/doc_remote/sfire_dev/area/doc/api/TIB_sfire-analyst_api/html/N_Spotfire_Dxp_Data_Formats_Sbdf.htm)
+Documentation on the SBDF library can be found [here](https://docs.tibco.com/pub/doc_remote/sfire_dev/area/doc/api/TIB_sfire-analyst_api/?topic=html/N_Spotfire_Dxp_Data_Formats_Sbdf.htm)
 
 
 ## License
